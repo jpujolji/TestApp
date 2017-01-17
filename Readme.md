@@ -10,3 +10,4 @@
 - [gson](https://github.com/google/gson)
 - [android-async-http](https://github.com/loopj/android-async-http)
 - [picasso](https://github.com/square/picasso)
+- [realm](https://github.com/realm/realm-java)
